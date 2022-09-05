@@ -1,0 +1,10 @@
+[package]
+name = "neural_network"
+version = "0.1.0"
+authors = ["John Constable <johnmconstable@icloud.com>"]
+edition = "2021"
+description = "A proof-of-concept neural network written in Rust."
+
+[dependencies]
+"rand" = "0.8.5"
+"nalgebra" = "0.31.0"
